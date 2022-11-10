@@ -1,0 +1,5 @@
+logs/log*
+*.mp4
+!demo.mp4
+assets/uploads/*
+!.gitinclude
